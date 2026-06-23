@@ -1,0 +1,981 @@
+codigo,titulo,secao,grupo,tipo
+FWC00,Item FWC00,FIFA World Cup 2026,,Especial
+FWC1,Item FWC1,FIFA World Cup 2026,,Especial
+FWC2,Item FWC2,FIFA World Cup 2026,,Especial
+FWC3,Item FWC3,FIFA World Cup 2026,,Especial
+MEX1,Escudo,Mexico,Grupo A,Especial
+MEX2,Jogador MEX2,Mexico,Grupo A,Comum
+MEX3,Jogador MEX3,Mexico,Grupo A,Comum
+MEX4,Jogador MEX4,Mexico,Grupo A,Comum
+RSA1,Escudo,Africa do Sul,Grupo A,Especial
+RSA2,Jogador RSA2,Africa do Sul,Grupo A,Comum
+RSA3,Jogador RSA3,Africa do Sul,Grupo A,Comum
+RSA4,Jogador RSA4,Africa do Sul,Grupo A,Comum
+KOR1,Escudo,Coreia do Sul,Grupo A,Especial
+KOR2,Jogador KOR2,Coreia do Sul,Grupo A,Comum
+KOR3,Jogador KOR3,Coreia do Sul,Grupo A,Comum
+KOR4,Jogador KOR4,Coreia do Sul,Grupo A,Comum
+CZE1,Escudo,Rep. Tcheca,Grupo A,Especial
+CZE2,Jogador CZE2,Rep. Tcheca,Grupo A,Comum
+CZE3,Jogador CZE3,Rep. Tcheca,Grupo A,Comum
+CZE4,Jogador CZE4,Rep. Tcheca,Grupo A,Comum
+CAN1,Escudo,Canada,Grupo B,Especial
+CAN2,Jogador CAN2,Canada,Grupo B,Comum
+CAN3,Jogador CAN3,Canada,Grupo B,Comum
+CAN4,Jogador CAN4,Canada,Grupo B,Comum
+BIH1,Escudo,Bosnia,Grupo B,Especial
+BIH2,Jogador BIH2,Bosnia,Grupo B,Comum
+BIH3,Jogador BIH3,Bosnia,Grupo B,Comum
+BIH4,Jogador BIH4,Bosnia,Grupo B,Comum
+QAT1,Escudo,Catar,Grupo B,Especial
+QAT2,Jogador QAT2,Catar,Grupo B,Comum
+QAT3,Jogador QAT3,Catar,Grupo B,Comum
+QAT4,Jogador QAT4,Catar,Grupo B,Comum
+SUI1,Escudo,Suica,Grupo B,Especial
+SUI2,Jogador SUI2,Suica,Grupo B,Comum
+SUI3,Jogador SUI3,Suica,Grupo B,Comum
+SUI4,Jogador SUI4,Suica,Grupo B,Comum
+BRA1,Escudo,Brasil,Grupo C,Especial
+BRA2,Jogador BRA2,Brasil,Grupo C,Comum
+BRA3,Jogador BRA3,Brasil,Grupo C,Comum
+BRA4,Jogador BRA4,Brasil,Grupo C,Comum
+MAR1,Escudo,Marrocos,Grupo C,Especial
+MAR2,Jogador MAR2,Marrocos,Grupo C,Comum
+MAR3,Jogador MAR3,Marrocos,Grupo C,Comum
+MAR4,Jogador MAR4,Marrocos,Grupo C,Comum
+HAI1,Escudo,Haiti,Grupo C,Especial
+HAI2,Jogador HAI2,Haiti,Grupo C,Comum
+HAI3,Jogador HAI3,Haiti,Grupo C,Comum
+HAI4,Jogador HAI4,Haiti,Grupo C,Comum
+SCO1,Escudo,Escocia,Grupo C,Especial
+SCO2,Jogador SCO2,Escocia,Grupo C,Comum
+SCO3,Jogador SCO3,Escocia,Grupo C,Comum
+SCO4,Jogador SCO4,Escocia,Grupo C,Comum
+USA1,Escudo,Estados Unidos,Grupo D,Especial
+USA2,Jogador USA2,Estados Unidos,Grupo D,Comum
+USA3,Jogador USA3,Estados Unidos,Grupo D,Comum
+USA4,Jogador USA4,Estados Unidos,Grupo D,Comum
+PAR1,Escudo,Paraguai,Grupo D,Especial
+PAR2,Jogador PAR2,Paraguai,Grupo D,Comum
+PAR3,Jogador PAR3,Paraguai,Grupo D,Comum
+PAR4,Jogador PAR4,Paraguai,Grupo D,Comum
+AUS1,Escudo,Australia,Grupo D,Especial
+AUS2,Jogador AUS2,Australia,Grupo D,Comum
+AUS3,Jogador AUS3,Australia,Grupo D,Comum
+AUS4,Jogador AUS4,Australia,Grupo D,Comum
+TUR1,Escudo,Turquia,Grupo D,Especial
+TUR2,Jogador TUR2,Turquia,Grupo D,Comum
+TUR3,Jogador TUR3,Turquia,Grupo D,Comum
+TUR4,Jogador TUR4,Turquia,Grupo D,Comum
+GER1,Escudo,Alemanha,Grupo E,Especial
+GER2,Jogador GER2,Alemanha,Grupo E,Comum
+GER3,Jogador GER3,Alemanha,Grupo E,Comum
+GER4,Jogador GER4,Alemanha,Grupo E,Comum
+CUW1,Escudo,Curacao,Grupo E,Especial
+CUW2,Jogador CUW2,Curacao,Grupo E,Comum
+CUW3,Jogador CUW3,Curacao,Grupo E,Comum
+CUW4,Jogador CUW4,Curacao,Grupo E,Comum
+CIV1,Escudo,Costa do Marfim,Grupo E,Especial
+CIV2,Jogador CIV2,Costa do Marfim,Grupo E,Comum
+CIV3,Jogador CIV3,Costa do Marfim,Grupo E,Comum
+CIV4,Jogador CIV4,Costa do Marfim,Grupo E,Comum
+ECU1,Escudo,Equador,Grupo E,Especial
+ECU2,Jogador ECU2,Equador,Grupo E,Comum
+ECU3,Jogador ECU3,Equador,Grupo E,Comum
+ECU4,Jogador ECU4,Equador,Grupo E,Comum
+NED1,Escudo,Holanda,Grupo F,Especial
+NED2,Jogador NED2,Holanda,Grupo F,Comum
+NED3,Jogador NED3,Holanda,Grupo F,Comum
+NED4,Jogador NED4,Holanda,Grupo F,Comum
+JPN1,Escudo,Japao,Grupo F,Especial
+JPN2,Jogador JPN2,Japao,Grupo F,Comum
+JPN3,Jogador JPN3,Japao,Grupo F,Comum
+JPN4,Jogador JPN4,Japao,Grupo F,Comum
+SWE1,Escudo,Suecia,Grupo F,Especial
+SWE2,Jogador SWE2,Suecia,Grupo F,Comum
+SWE3,Jogador SWE3,Suecia,Grupo F,Comum
+SWE4,Jogador SWE4,Suecia,Grupo F,Comum
+TUN1,Escudo,Tunisia,Grupo F,Especial
+TUN2,Jogador TUN2,Tunisia,Grupo F,Comum
+TUN3,Jogador TUN3,Tunisia,Grupo F,Comum
+TUN4,Jogador TUN4,Tunisia,Grupo F,Comum
+BEL1,Escudo,Belgica,Grupo G,Especial
+BEL2,Jogador BEL2,Belgica,Grupo G,Comum
+BEL3,Jogador BEL3,Belgica,Grupo G,Comum
+BEL4,Jogador BEL4,Belgica,Grupo G,Comum
+EGY1,Escudo,Egito,Grupo G,Especial
+EGY2,Jogador EGY2,Egito,Grupo G,Comum
+EGY3,Jogador EGY3,Egito,Grupo G,Comum
+EGY4,Jogador EGY4,Egito,Grupo G,Comum
+IRN1,Escudo,Ira,Grupo G,Especial
+IRN2,Jogador IRN2,Ira,Grupo G,Comum
+IRN3,Jogador IRN3,Ira,Grupo G,Comum
+IRN4,Jogador IRN4,Ira,Grupo G,Comum
+NZL1,Escudo,Nova Zelandia,Grupo G,Especial
+NZL2,Jogador NZL2,Nova Zelandia,Grupo G,Comum
+NZL3,Jogador NZL3,Nova Zelandia,Grupo G,Comum
+NZL4,Jogador NZL4,Nova Zelandia,Grupo G,Comum
+ESP1,Escudo,Espanha,Grupo H,Especial
+ESP2,Jogador ESP2,Espanha,Grupo H,Comum
+ESP3,Jogador ESP3,Espanha,Grupo H,Comum
+ESP4,Jogador ESP4,Espanha,Grupo H,Comum
+CPV1,Escudo,Cabo Verde,Grupo H,Especial
+CPV2,Jogador CPV2,Cabo Verde,Grupo H,Comum
+CPV3,Jogador CPV3,Cabo Verde,Grupo H,Comum
+CPV4,Jogador CPV4,Cabo Verde,Grupo H,Comum
+KSA1,Escudo,Arabia Saudita,Grupo H,Especial
+KSA2,Jogador KSA2,Arabia Saudita,Grupo H,Comum
+KSA3,Jogador KSA3,Arabia Saudita,Grupo H,Comum
+KSA4,Jogador KSA4,Arabia Saudita,Grupo H,Comum
+URU1,Escudo,Uruguai,Grupo H,Especial
+URU2,Jogador URU2,Uruguai,Grupo H,Comum
+URU3,Jogador URU3,Uruguai,Grupo H,Comum
+URU4,Jogador URU4,Uruguai,Grupo H,Comum
+FRA1,Escudo,Franca,Grupo I,Especial
+FRA2,Jogador FRA2,Franca,Grupo I,Comum
+FRA3,Jogador FRA3,Franca,Grupo I,Comum
+FRA4,Jogador FRA4,Franca,Grupo I,Comum
+SEN1,Escudo,Senegal,Grupo I,Especial
+SEN2,Jogador SEN2,Senegal,Grupo I,Comum
+SEN3,Jogador SEN3,Senegal,Grupo I,Comum
+SEN4,Jogador SEN4,Senegal,Grupo I,Comum
+IRQ1,Escudo,Iraque,Grupo I,Especial
+IRQ2,Jogador IRQ2,Iraque,Grupo I,Comum
+IRQ3,Jogador IRQ3,Iraque,Grupo I,Comum
+IRQ4,Jogador IRQ4,Iraque,Grupo I,Comum
+NOR1,Escudo,Noruega,Grupo I,Especial
+NOR2,Jogador NOR2,Noruega,Grupo I,Comum
+NOR3,Jogador NOR3,Noruega,Grupo I,Comum
+NOR4,Jogador NOR4,Noruega,Grupo I,Comum
+ARG1,Escudo,Argentina,Grupo J,Especial
+ARG2,Jogador ARG2,Argentina,Grupo J,Comum
+ARG3,Jogador ARG3,Argentina,Grupo J,Comum
+ARG4,Jogador ARG4,Argentina,Grupo J,Comum
+ALG1,Escudo,Argelia,Grupo J,Especial
+ALG2,Jogador ALG2,Argelia,Grupo J,Comum
+ALG3,Jogador ALG3,Argelia,Grupo J,Comum
+ALG4,Jogador ALG4,Argelia,Grupo J,Comum
+AUT1,Escudo,Austria,Grupo J,Especial
+AUT2,Jogador AUT2,Austria,Grupo J,Comum
+AUT3,Jogador AUT3,Austria,Grupo J,Comum
+AUT4,Jogador AUT4,Austria,Grupo J,Comum
+JOR1,Escudo,Jordania,Grupo J,Especial
+JOR2,Jogador JOR2,Jordania,Grupo J,Comum
+JOR3,Jogador JOR3,Jordania,Grupo J,Comum
+JOR4,Jogador JOR4,Jordania,Grupo J,Comum
+POR1,Escudo,Portugal,Grupo K,Especial
+POR2,Jogador POR2,Portugal,Grupo K,Comum
+POR3,Jogador POR3,Portugal,Grupo K,Comum
+POR4,Jogador POR4,Portugal,Grupo K,Comum
+COD1,Escudo,Congo,Grupo K,Especial
+COD2,Jogador COD2,Congo,Grupo K,Comum
+COD3,Jogador COD3,Congo,Grupo K,Comum
+COD4,Jogador COD4,Congo,Grupo K,Comum
+UZB1,Escudo,Uzbequistao,Grupo K,Especial
+UZB2,Jogador UZB2,Uzbequistao,Grupo K,Comum
+UZB3,Jogador UZB3,Uzbequistao,Grupo K,Comum
+UZB4,Jogador UZB4,Uzbequistao,Grupo K,Comum
+COL1,Escudo,Colombia,Grupo K,Especial
+COL2,Jogador COL2,Colombia,Grupo K,Comum
+COL3,Jogador COL3,Colombia,Grupo K,Comum
+COL4,Jogador COL4,Colombia,Grupo K,Comum
+ENG1,Escudo,Inglaterra,Grupo L,Especial
+ENG2,Jogador ENG2,Inglaterra,Grupo L,Comum
+ENG3,Jogador ENG3,Inglaterra,Grupo L,Comum
+ENG4,Jogador ENG4,Inglaterra,Grupo L,Comum
+CRO1,Escudo,Croacia,Grupo L,Especial
+CRO2,Jogador CRO2,Croacia,Grupo L,Comum
+CRO3,Jogador CRO3,Croacia,Grupo L,Comum
+CRO4,Jogador CRO4,Croacia,Grupo L,Comum
+GHA1,Escudo,Gana,Grupo L,Especial
+GHA2,Jogador GHA2,Gana,Grupo L,Comum
+GHA3,Jogador GHA3,Gana,Grupo L,Comum
+GHA4,Jogador GHA4,Gana,Grupo L,Comum
+PAN1,Escudo,Panama,Grupo L,Especial
+PAN2,Jogador PAN2,Panama,Grupo L,Comum
+PAN3,Jogador PAN3,Panama,Grupo L,Comum
+PAN4,Jogador PAN4,Panama,Grupo L,Comum
+FWC4,Item FWC4,FIFA World Cup 2026,,Especial
+FWC5,Item FWC5,FIFA World Cup 2026,,Especial
+FWC6,Item FWC6,FIFA World Cup 2026,,Especial
+FWC7,Item FWC7,FIFA World Cup 2026,,Especial
+FWC8,Item FWC8,FIFA World Cup 2026,,Especial
+FWC9,Item FWC9,FIFA World Cup 2026,,Especial
+FWC10,Item FWC10,FIFA World Cup 2026,,Especial
+FWC11,Item FWC11,FIFA World Cup 2026,,Especial
+FWC12,Item FWC12,FIFA World Cup 2026,,Especial
+FWC13,Item FWC13,FIFA World Cup 2026,,Especial
+FWC14,Item FWC14,FIFA World Cup 2026,,Especial
+FWC15,Item FWC15,FIFA World Cup 2026,,Especial
+FWC16,Item FWC16,FIFA World Cup 2026,,Especial
+FWC17,Item FWC17,FIFA World Cup 2026,,Especial
+FWC18,Item FWC18,FIFA World Cup 2026,,Especial
+FWC19,Item FWC19,FIFA World Cup 2026,,Especial
+MEX5,Jogador MEX5,Mexico,Grupo A,Comum
+MEX6,Jogador MEX6,Mexico,Grupo A,Comum
+MEX7,Jogador MEX7,Mexico,Grupo A,Comum
+MEX8,Jogador MEX8,Mexico,Grupo A,Comum
+MEX9,Jogador MEX9,Mexico,Grupo A,Comum
+MEX10,Jogador MEX10,Mexico,Grupo A,Comum
+MEX11,Escudo,Mexico,Grupo A,Especial
+MEX12,Jogador MEX12,Mexico,Grupo A,Comum
+MEX13,Jogador MEX13,Mexico,Grupo A,Comum
+MEX14,Jogador MEX14,Mexico,Grupo A,Comum
+MEX15,Jogador MEX15,Mexico,Grupo A,Comum
+MEX16,Jogador MEX16,Mexico,Grupo A,Comum
+MEX17,Jogador MEX17,Mexico,Grupo A,Comum
+MEX18,Jogador MEX18,Mexico,Grupo A,Comum
+MEX19,Jogador MEX19,Mexico,Grupo A,Comum
+MEX20,Jogador MEX20,Mexico,Grupo A,Comum
+RSA5,Jogador RSA5,Africa do Sul,Grupo A,Comum
+RSA6,Jogador RSA6,Africa do Sul,Grupo A,Comum
+RSA7,Jogador RSA7,Africa do Sul,Grupo A,Comum
+RSA8,Jogador RSA8,Africa do Sul,Grupo A,Comum
+RSA9,Jogador RSA9,Africa do Sul,Grupo A,Comum
+KOR5,Jogador KOR5,Coreia do Sul,Grupo A,Comum
+CZE5,Jogador CZE5,Rep. Tcheca,Grupo A,Comum
+KOR6,Jogador KOR6,Coreia do Sul,Grupo A,Comum
+CZE6,Jogador CZE6,Rep. Tcheca,Grupo A,Comum
+KOR7,Jogador KOR7,Coreia do Sul,Grupo A,Comum
+CZE7,Jogador CZE7,Rep. Tcheca,Grupo A,Comum
+KOR8,Jogador KOR8,Coreia do Sul,Grupo A,Comum
+CZE8,Jogador CZE8,Rep. Tcheca,Grupo A,Comum
+KOR9,Jogador KOR9,Coreia do Sul,Grupo A,Comum
+KOR10,Jogador KOR10,Coreia do Sul,Grupo A,Comum
+KOR11,Escudo,Coreia do Sul,Grupo A,Especial
+KOR12,Jogador KOR12,Coreia do Sul,Grupo A,Comum
+KOR13,Jogador KOR13,Coreia do Sul,Grupo A,Comum
+KOR14,Jogador KOR14,Coreia do Sul,Grupo A,Comum
+KOR15,Jogador KOR15,Coreia do Sul,Grupo A,Comum
+KOR16,Jogador KOR16,Coreia do Sul,Grupo A,Comum
+KOR17,Jogador KOR17,Coreia do Sul,Grupo A,Comum
+KOR18,Jogador KOR18,Coreia do Sul,Grupo A,Comum
+KOR19,Jogador KOR19,Coreia do Sul,Grupo A,Comum
+KOR20,Jogador KOR20,Coreia do Sul,Grupo A,Comum
+CZE9,Jogador CZE9,Rep. Tcheca,Grupo A,Comum
+CZE10,Jogador CZE10,Rep. Tcheca,Grupo A,Comum
+CZE11,Escudo,Rep. Tcheca,Grupo A,Especial
+CZE12,Jogador CZE12,Rep. Tcheca,Grupo A,Comum
+CZE13,Jogador CZE13,Rep. Tcheca,Grupo A,Comum
+CZE14,Jogador CZE14,Rep. Tcheca,Grupo A,Comum
+CZE15,Jogador CZE15,Rep. Tcheca,Grupo A,Comum
+CZE16,Jogador CZE16,Rep. Tcheca,Grupo A,Comum
+CZE17,Jogador CZE17,Rep. Tcheca,Grupo A,Comum
+CZE18,Jogador CZE18,Rep. Tcheca,Grupo A,Comum
+CZE19,Jogador CZE19,Rep. Tcheca,Grupo A,Comum
+CZE20,Jogador CZE20,Rep. Tcheca,Grupo A,Comum
+CAN5,Jogador CAN5,Canada,Grupo B,Comum
+CAN6,Jogador CAN6,Canada,Grupo B,Comum
+CAN7,Jogador CAN7,Canada,Grupo B,Comum
+CAN8,Jogador CAN8,Canada,Grupo B,Comum
+CAN9,Jogador CAN9,Canada,Grupo B,Comum
+CAN10,Jogador CAN10,Canada,Grupo B,Comum
+CAN11,Escudo,Canada,Grupo B,Especial
+CAN12,Jogador CAN12,Canada,Grupo B,Comum
+CAN13,Jogador CAN13,Canada,Grupo B,Comum
+CAN14,Jogador CAN14,Canada,Grupo B,Comum
+CAN15,Jogador CAN15,Canada,Grupo B,Comum
+CAN16,Jogador CAN16,Canada,Grupo B,Comum
+CAN17,Jogador CAN17,Canada,Grupo B,Comum
+CAN18,Jogador CAN18,Canada,Grupo B,Comum
+CAN19,Jogador CAN19,Canada,Grupo B,Comum
+CAN20,Jogador CAN20,Canada,Grupo B,Comum
+BIH5,Jogador BIH5,Bosnia,Grupo B,Comum
+BIH6,Jogador BIH6,Bosnia,Grupo B,Comum
+BIH7,Jogador BIH7,Bosnia,Grupo B,Comum
+BIH8,Jogador BIH8,Bosnia,Grupo B,Comum
+BIH9,Jogador BIH9,Bosnia,Grupo B,Comum
+BIH10,Jogador BIH10,Bosnia,Grupo B,Comum
+QAT5,Jogador QAT5,Catar,Grupo B,Comum
+SUI5,Jogador SUI5,Suica,Grupo B,Comum
+QAT6,Jogador QAT6,Catar,Grupo B,Comum
+SUI6,Jogador SUI6,Suica,Grupo B,Comum
+QAT7,Jogador QAT7,Catar,Grupo B,Comum
+SUI7,Jogador SUI7,Suica,Grupo B,Comum
+QAT8,Jogador QAT8,Catar,Grupo B,Comum
+SUI8,Jogador SUI8,Suica,Grupo B,Comum
+QAT9,Jogador QAT9,Catar,Grupo B,Comum
+SUI9,Jogador SUI9,Suica,Grupo B,Comum
+QAT10,Jogador QAT10,Catar,Grupo B,Comum
+QAT11,Escudo,Catar,Grupo B,Especial
+QAT12,Jogador QAT12,Catar,Grupo B,Comum
+QAT13,Jogador QAT13,Catar,Grupo B,Comum
+QAT14,Jogador QAT14,Catar,Grupo B,Comum
+QAT15,Jogador QAT15,Catar,Grupo B,Comum
+QAT16,Jogador QAT16,Catar,Grupo B,Comum
+QAT17,Jogador QAT17,Catar,Grupo B,Comum
+QAT18,Jogador QAT18,Catar,Grupo B,Comum
+QAT19,Jogador QAT19,Catar,Grupo B,Comum
+QAT20,Jogador QAT20,Catar,Grupo B,Comum
+SUI10,Jogador SUI10,Suica,Grupo B,Comum
+SUI11,Escudo,Suica,Grupo B,Especial
+SUI12,Jogador SUI12,Suica,Grupo B,Comum
+SUI13,Jogador SUI13,Suica,Grupo B,Comum
+SUI14,Jogador SUI14,Suica,Grupo B,Comum
+SUI15,Jogador SUI15,Suica,Grupo B,Comum
+SUI16,Jogador SUI16,Suica,Grupo B,Comum
+SUI17,Jogador SUI17,Suica,Grupo B,Comum
+SUI18,Jogador SUI18,Suica,Grupo B,Comum
+SUI19,Jogador SUI19,Suica,Grupo B,Comum
+SUI20,Jogador SUI20,Suica,Grupo B,Comum
+BRA5,Jogador BRA5,Brasil,Grupo C,Comum
+BRA6,Jogador BRA6,Brasil,Grupo C,Comum
+BRA7,Jogador BRA7,Brasil,Grupo C,Comum
+BRA8,Jogador BRA8,Brasil,Grupo C,Comum
+BRA9,Jogador BRA9,Brasil,Grupo C,Comum
+BRA10,Jogador BRA10,Brasil,Grupo C,Comum
+BRA11,Escudo,Brasil,Grupo C,Especial
+BRA12,Jogador BRA12,Brasil,Grupo C,Comum
+BRA13,Jogador BRA13,Brasil,Grupo C,Comum
+BRA14,Jogador BRA14,Brasil,Grupo C,Comum
+BRA15,Jogador BRA15,Brasil,Grupo C,Comum
+BRA16,Jogador BRA16,Brasil,Grupo C,Comum
+BRA17,Jogador BRA17,Brasil,Grupo C,Comum
+BRA18,Jogador BRA18,Brasil,Grupo C,Comum
+BRA19,Jogador BRA19,Brasil,Grupo C,Comum
+BRA20,Jogador BRA20,Brasil,Grupo C,Comum
+MAR5,Jogador MAR5,Marrocos,Grupo C,Comum
+MAR6,Jogador MAR6,Marrocos,Grupo C,Comum
+MAR7,Jogador MAR7,Marrocos,Grupo C,Comum
+MAR8,Jogador MAR8,Marrocos,Grupo C,Comum
+MAR9,Jogador MAR9,Marrocos,Grupo C,Comum
+MAR10,Jogador MAR10,Marrocos,Grupo C,Comum
+MAR11,Escudo,Marrocos,Grupo C,Especial
+MAR12,Jogador MAR12,Marrocos,Grupo C,Comum
+MAR13,Jogador MAR13,Marrocos,Grupo C,Comum
+MAR14,Jogador MAR14,Marrocos,Grupo C,Comum
+MAR15,Jogador MAR15,Marrocos,Grupo C,Comum
+MAR16,Jogador MAR16,Marrocos,Grupo C,Comum
+MAR17,Jogador MAR17,Marrocos,Grupo C,Comum
+MAR18,Jogador MAR18,Marrocos,Grupo C,Comum
+MAR19,Jogador MAR19,Marrocos,Grupo C,Comum
+MAR20,Jogador MAR20,Marrocos,Grupo C,Comum
+HAI5,Jogador HAI5,Haiti,Grupo C,Comum
+SCO5,Jogador SCO5,Escocia,Grupo C,Comum
+HAI6,Jogador HAI6,Haiti,Grupo C,Comum
+SCO6,Jogador SCO6,Escocia,Grupo C,Comum
+HAI7,Jogador HAI7,Haiti,Grupo C,Comum
+SCO7,Jogador SCO7,Escocia,Grupo C,Comum
+HAI8,Jogador HAI8,Haiti,Grupo C,Comum
+SCO8,Jogador SCO8,Escocia,Grupo C,Comum
+HAI9,Jogador HAI9,Haiti,Grupo C,Comum
+HAI10,Jogador HAI10,Haiti,Grupo C,Comum
+HAI11,Escudo,Haiti,Grupo C,Especial
+HAI12,Jogador HAI12,Haiti,Grupo C,Comum
+HAI13,Jogador HAI13,Haiti,Grupo C,Comum
+HAI14,Jogador HAI14,Haiti,Grupo C,Comum
+HAI15,Jogador HAI15,Haiti,Grupo C,Comum
+HAI16,Jogador HAI16,Haiti,Grupo C,Comum
+HAI17,Jogador HAI17,Haiti,Grupo C,Comum
+HAI18,Jogador HAI18,Haiti,Grupo C,Comum
+HAI19,Jogador HAI19,Haiti,Grupo C,Comum
+HAI20,Jogador HAI20,Haiti,Grupo C,Comum
+SCO9,Jogador SCO9,Escocia,Grupo C,Comum
+SCO10,Jogador SCO10,Escocia,Grupo C,Comum
+SCO11,Escudo,Escocia,Grupo C,Especial
+SCO12,Jogador SCO12,Escocia,Grupo C,Comum
+SCO13,Jogador SCO13,Escocia,Grupo C,Comum
+SCO14,Jogador SCO14,Escocia,Grupo C,Comum
+SCO15,Jogador SCO15,Escocia,Grupo C,Comum
+SCO16,Jogador SCO16,Escocia,Grupo C,Comum
+SCO17,Jogador SCO17,Escocia,Grupo C,Comum
+SCO18,Jogador SCO18,Escocia,Grupo C,Comum
+SCO19,Jogador SCO19,Escocia,Grupo C,Comum
+SCO20,Jogador SCO20,Escocia,Grupo C,Comum
+USA5,Jogador USA5,Estados Unidos,Grupo D,Comum
+USA6,Jogador USA6,Estados Unidos,Grupo D,Comum
+USA7,Jogador USA7,Estados Unidos,Grupo D,Comum
+USA8,Jogador USA8,Estados Unidos,Grupo D,Comum
+USA9,Jogador USA9,Estados Unidos,Grupo D,Comum
+USA10,Jogador USA10,Estados Unidos,Grupo D,Comum
+USA11,Escudo,Estados Unidos,Grupo D,Especial
+USA12,Jogador USA12,Estados Unidos,Grupo D,Comum
+USA13,Jogador USA13,Estados Unidos,Grupo D,Comum
+USA14,Jogador USA14,Estados Unidos,Grupo D,Comum
+USA15,Jogador USA15,Estados Unidos,Grupo D,Comum
+USA16,Jogador USA16,Estados Unidos,Grupo D,Comum
+USA17,Jogador USA17,Estados Unidos,Grupo D,Comum
+USA18,Jogador USA18,Estados Unidos,Grupo D,Comum
+USA19,Jogador USA19,Estados Unidos,Grupo D,Comum
+USA20,Jogador USA20,Estados Unidos,Grupo D,Comum
+PAR5,Jogador PAR5,Paraguai,Grupo D,Comum
+PAR6,Jogador PAR6,Paraguai,Grupo D,Comum
+PAR7,Jogador PAR7,Paraguai,Grupo D,Comum
+PAR8,Jogador PAR8,Paraguai,Grupo D,Comum
+PAR9,Jogador PAR9,Paraguai,Grupo D,Comum
+PAR10,Jogador PAR10,Paraguai,Grupo D,Comum
+PAR11,Escudo,Paraguai,Grupo D,Especial
+PAR12,Jogador PAR12,Paraguai,Grupo D,Comum
+PAR13,Jogador PAR13,Paraguai,Grupo D,Comum
+PAR14,Jogador PAR14,Paraguai,Grupo D,Comum
+PAR15,Jogador PAR15,Paraguai,Grupo D,Comum
+PAR16,Jogador PAR16,Paraguai,Grupo D,Comum
+PAR17,Jogador PAR17,Paraguai,Grupo D,Comum
+PAR18,Jogador PAR18,Paraguai,Grupo D,Comum
+PAR19,Jogador PAR19,Paraguai,Grupo D,Comum
+PAR20,Jogador PAR20,Paraguai,Grupo D,Comum
+AUS5,Jogador AUS5,Australia,Grupo D,Comum
+TUR5,Jogador TUR5,Turquia,Grupo D,Comum
+AUS6,Jogador AUS6,Australia,Grupo D,Comum
+TUR6,Jogador TUR6,Turquia,Grupo D,Comum
+AUS7,Jogador AUS7,Australia,Grupo D,Comum
+TUR7,Jogador TUR7,Turquia,Grupo D,Comum
+AUS8,Jogador AUS8,Australia,Grupo D,Comum
+TUR8,Jogador TUR8,Turquia,Grupo D,Comum
+AUS9,Jogador AUS9,Australia,Grupo D,Comum
+TUR9,Jogador TUR9,Turquia,Grupo D,Comum
+AUS10,Jogador AUS10,Australia,Grupo D,Comum
+AUS11,Escudo,Australia,Grupo D,Especial
+AUS12,Jogador AUS12,Australia,Grupo D,Comum
+AUS13,Jogador AUS13,Australia,Grupo D,Comum
+AUS14,Jogador AUS14,Australia,Grupo D,Comum
+AUS15,Jogador AUS15,Australia,Grupo D,Comum
+AUS16,Jogador AUS16,Australia,Grupo D,Comum
+AUS17,Jogador AUS17,Australia,Grupo D,Comum
+AUS18,Jogador AUS18,Australia,Grupo D,Comum
+AUS19,Jogador AUS19,Australia,Grupo D,Comum
+AUS20,Jogador AUS20,Australia,Grupo D,Comum
+TUR10,Jogador TUR10,Turquia,Grupo D,Comum
+TUR11,Escudo,Turquia,Grupo D,Especial
+TUR12,Jogador TUR12,Turquia,Grupo D,Comum
+TUR13,Jogador TUR13,Turquia,Grupo D,Comum
+TUR14,Jogador TUR14,Turquia,Grupo D,Comum
+TUR15,Jogador TUR15,Turquia,Grupo D,Comum
+TUR16,Jogador TUR16,Turquia,Grupo D,Comum
+TUR17,Jogador TUR17,Turquia,Grupo D,Comum
+TUR18,Jogador TUR18,Turquia,Grupo D,Comum
+TUR19,Jogador TUR19,Turquia,Grupo D,Comum
+TUR20,Jogador TUR20,Turquia,Grupo D,Comum
+GER5,Jogador GER5,Alemanha,Grupo E,Comum
+GER6,Jogador GER6,Alemanha,Grupo E,Comum
+GER7,Jogador GER7,Alemanha,Grupo E,Comum
+GER8,Jogador GER8,Alemanha,Grupo E,Comum
+GER9,Jogador GER9,Alemanha,Grupo E,Comum
+GER10,Jogador GER10,Alemanha,Grupo E,Comum
+GER11,Escudo,Alemanha,Grupo E,Especial
+GER12,Jogador GER12,Alemanha,Grupo E,Comum
+GER13,Jogador GER13,Alemanha,Grupo E,Comum
+GER14,Jogador GER14,Alemanha,Grupo E,Comum
+GER15,Jogador GER15,Alemanha,Grupo E,Comum
+GER16,Jogador GER16,Alemanha,Grupo E,Comum
+GER17,Jogador GER17,Alemanha,Grupo E,Comum
+GER18,Jogador GER18,Alemanha,Grupo E,Comum
+GER19,Jogador GER19,Alemanha,Grupo E,Comum
+GER20,Jogador GER20,Alemanha,Grupo E,Comum
+RSA10,Jogador RSA10,Africa do Sul,Grupo A,Comum
+RSA11,Escudo,Africa do Sul,Grupo A,Especial
+RSA12,Jogador RSA12,Africa do Sul,Grupo A,Comum
+RSA13,Jogador RSA13,Africa do Sul,Grupo A,Comum
+RSA14,Jogador RSA14,Africa do Sul,Grupo A,Comum
+RSA15,Jogador RSA15,Africa do Sul,Grupo A,Comum
+RSA16,Jogador RSA16,Africa do Sul,Grupo A,Comum
+RSA17,Jogador RSA17,Africa do Sul,Grupo A,Comum
+RSA18,Jogador RSA18,Africa do Sul,Grupo A,Comum
+RSA19,Jogador RSA19,Africa do Sul,Grupo A,Comum
+RSA20,Jogador RSA20,Africa do Sul,Grupo A,Comum
+BIH11,Escudo,Bosnia,Grupo B,Especial
+BIH12,Jogador BIH12,Bosnia,Grupo B,Comum
+BIH13,Jogador BIH13,Bosnia,Grupo B,Comum
+BIH14,Jogador BIH14,Bosnia,Grupo B,Comum
+BIH15,Jogador BIH15,Bosnia,Grupo B,Comum
+BIH16,Jogador BIH16,Bosnia,Grupo B,Comum
+BIH17,Jogador BIH17,Bosnia,Grupo B,Comum
+BIH18,Jogador BIH18,Bosnia,Grupo B,Comum
+BIH19,Jogador BIH19,Bosnia,Grupo B,Comum
+BIH20,Jogador BIH20,Bosnia,Grupo B,Comum
+CUW5,Jogador CUW5,Curacao,Grupo E,Comum
+CUW6,Jogador CUW6,Curacao,Grupo E,Comum
+CUW7,Jogador CUW7,Curacao,Grupo E,Comum
+CUW8,Jogador CUW8,Curacao,Grupo E,Comum
+CUW9,Jogador CUW9,Curacao,Grupo E,Comum
+CUW10,Jogador CUW10,Curacao,Grupo E,Comum
+CUW11,Escudo,Curacao,Grupo E,Especial
+CUW12,Jogador CUW12,Curacao,Grupo E,Comum
+CUW13,Jogador CUW13,Curacao,Grupo E,Comum
+CUW14,Jogador CUW14,Curacao,Grupo E,Comum
+CUW15,Jogador CUW15,Curacao,Grupo E,Comum
+CUW16,Jogador CUW16,Curacao,Grupo E,Comum
+CUW17,Jogador CUW17,Curacao,Grupo E,Comum
+CUW18,Jogador CUW18,Curacao,Grupo E,Comum
+CUW19,Jogador CUW19,Curacao,Grupo E,Comum
+CUW20,Jogador CUW20,Curacao,Grupo E,Comum
+CIV5,Jogador CIV5,Costa do Marfim,Grupo E,Comum
+ECU5,Jogador ECU5,Equador,Grupo E,Comum
+CIV6,Jogador CIV6,Costa do Marfim,Grupo E,Comum
+ECU6,Jogador ECU6,Equador,Grupo E,Comum
+CIV7,Jogador CIV7,Costa do Marfim,Grupo E,Comum
+ECU7,Jogador ECU7,Equador,Grupo E,Comum
+CIV8,Jogador CIV8,Costa do Marfim,Grupo E,Comum
+ECU8,Jogador ECU8,Equador,Grupo E,Comum
+CIV9,Jogador CIV9,Costa do Marfim,Grupo E,Comum
+CIV10,Jogador CIV10,Costa do Marfim,Grupo E,Comum
+CIV11,Escudo,Costa do Marfim,Grupo E,Especial
+CIV12,Jogador CIV12,Costa do Marfim,Grupo E,Comum
+CIV13,Jogador CIV13,Costa do Marfim,Grupo E,Comum
+CIV14,Jogador CIV14,Costa do Marfim,Grupo E,Comum
+CIV15,Jogador CIV15,Costa do Marfim,Grupo E,Comum
+CIV16,Jogador CIV16,Costa do Marfim,Grupo E,Comum
+CIV17,Jogador CIV17,Costa do Marfim,Grupo E,Comum
+CIV18,Jogador CIV18,Costa do Marfim,Grupo E,Comum
+CIV19,Jogador CIV19,Costa do Marfim,Grupo E,Comum
+CIV20,Jogador CIV20,Costa do Marfim,Grupo E,Comum
+ECU9,Jogador ECU9,Equador,Grupo E,Comum
+ECU10,Jogador ECU10,Equador,Grupo E,Comum
+ECU11,Escudo,Equador,Grupo E,Especial
+ECU12,Jogador ECU12,Equador,Grupo E,Comum
+ECU13,Jogador ECU13,Equador,Grupo E,Comum
+ECU14,Jogador ECU14,Equador,Grupo E,Comum
+ECU15,Jogador ECU15,Equador,Grupo E,Comum
+ECU16,Jogador ECU16,Equador,Grupo E,Comum
+ECU17,Jogador ECU17,Equador,Grupo E,Comum
+ECU18,Jogador ECU18,Equador,Grupo E,Comum
+ECU19,Jogador ECU19,Equador,Grupo E,Comum
+ECU20,Jogador ECU20,Equador,Grupo E,Comum
+NED5,Jogador NED5,Holanda,Grupo F,Comum
+NED6,Jogador NED6,Holanda,Grupo F,Comum
+NED7,Jogador NED7,Holanda,Grupo F,Comum
+NED8,Jogador NED8,Holanda,Grupo F,Comum
+NED9,Jogador NED9,Holanda,Grupo F,Comum
+NED10,Jogador NED10,Holanda,Grupo F,Comum
+NED11,Escudo,Holanda,Grupo F,Especial
+NED12,Jogador NED12,Holanda,Grupo F,Comum
+NED13,Jogador NED13,Holanda,Grupo F,Comum
+NED14,Jogador NED14,Holanda,Grupo F,Comum
+NED15,Jogador NED15,Holanda,Grupo F,Comum
+NED16,Jogador NED16,Holanda,Grupo F,Comum
+NED17,Jogador NED17,Holanda,Grupo F,Comum
+NED18,Jogador NED18,Holanda,Grupo F,Comum
+NED19,Jogador NED19,Holanda,Grupo F,Comum
+NED20,Jogador NED20,Holanda,Grupo F,Comum
+JPN5,Jogador JPN5,Japao,Grupo F,Comum
+JPN6,Jogador JPN6,Japao,Grupo F,Comum
+JPN7,Jogador JPN7,Japao,Grupo F,Comum
+JPN8,Jogador JPN8,Japao,Grupo F,Comum
+JPN9,Jogador JPN9,Japao,Grupo F,Comum
+SWE5,Jogador SWE5,Suecia,Grupo F,Comum
+TUN5,Jogador TUN5,Tunisia,Grupo F,Comum
+SWE6,Jogador SWE6,Suecia,Grupo F,Comum
+TUN6,Jogador TUN6,Tunisia,Grupo F,Comum
+SWE7,Jogador SWE7,Suecia,Grupo F,Comum
+TUN7,Jogador TUN7,Tunisia,Grupo F,Comum
+SWE8,Jogador SWE8,Suecia,Grupo F,Comum
+TUN8,Jogador TUN8,Tunisia,Grupo F,Comum
+SWE9,Jogador SWE9,Suecia,Grupo F,Comum
+SWE10,Jogador SWE10,Suecia,Grupo F,Comum
+SWE11,Escudo,Suecia,Grupo F,Especial
+SWE12,Jogador SWE12,Suecia,Grupo F,Comum
+SWE13,Jogador SWE13,Suecia,Grupo F,Comum
+SWE14,Jogador SWE14,Suecia,Grupo F,Comum
+SWE15,Jogador SWE15,Suecia,Grupo F,Comum
+SWE16,Jogador SWE16,Suecia,Grupo F,Comum
+SWE17,Jogador SWE17,Suecia,Grupo F,Comum
+SWE18,Jogador SWE18,Suecia,Grupo F,Comum
+SWE19,Jogador SWE19,Suecia,Grupo F,Comum
+SWE20,Jogador SWE20,Suecia,Grupo F,Comum
+TUN9,Jogador TUN9,Tunisia,Grupo F,Comum
+TUN10,Jogador TUN10,Tunisia,Grupo F,Comum
+TUN11,Escudo,Tunisia,Grupo F,Especial
+TUN12,Jogador TUN12,Tunisia,Grupo F,Comum
+TUN13,Jogador TUN13,Tunisia,Grupo F,Comum
+TUN14,Jogador TUN14,Tunisia,Grupo F,Comum
+TUN15,Jogador TUN15,Tunisia,Grupo F,Comum
+TUN16,Jogador TUN16,Tunisia,Grupo F,Comum
+TUN17,Jogador TUN17,Tunisia,Grupo F,Comum
+TUN18,Jogador TUN18,Tunisia,Grupo F,Comum
+TUN19,Jogador TUN19,Tunisia,Grupo F,Comum
+TUN20,Jogador TUN20,Tunisia,Grupo F,Comum
+JPN10,Jogador JPN10,Japao,Grupo F,Comum
+JPN11,Escudo,Japao,Grupo F,Especial
+JPN12,Jogador JPN12,Japao,Grupo F,Comum
+JPN13,Jogador JPN13,Japao,Grupo F,Comum
+JPN14,Jogador JPN14,Japao,Grupo F,Comum
+JPN15,Jogador JPN15,Japao,Grupo F,Comum
+JPN16,Jogador JPN16,Japao,Grupo F,Comum
+JPN17,Jogador JPN17,Japao,Grupo F,Comum
+JPN18,Jogador JPN18,Japao,Grupo F,Comum
+JPN19,Jogador JPN19,Japao,Grupo F,Comum
+JPN20,Jogador JPN20,Japao,Grupo F,Comum
+BEL5,Jogador BEL5,Belgica,Grupo G,Comum
+BEL6,Jogador BEL6,Belgica,Grupo G,Comum
+BEL7,Jogador BEL7,Belgica,Grupo G,Comum
+BEL8,Jogador BEL8,Belgica,Grupo G,Comum
+BEL9,Jogador BEL9,Belgica,Grupo G,Comum
+BEL10,Jogador BEL10,Belgica,Grupo G,Comum
+BEL11,Escudo,Belgica,Grupo G,Especial
+BEL12,Jogador BEL12,Belgica,Grupo G,Comum
+BEL13,Jogador BEL13,Belgica,Grupo G,Comum
+BEL14,Jogador BEL14,Belgica,Grupo G,Comum
+BEL15,Jogador BEL15,Belgica,Grupo G,Comum
+BEL16,Jogador BEL16,Belgica,Grupo G,Comum
+BEL17,Jogador BEL17,Belgica,Grupo G,Comum
+BEL18,Jogador BEL18,Belgica,Grupo G,Comum
+BEL19,Jogador BEL19,Belgica,Grupo G,Comum
+BEL20,Jogador BEL20,Belgica,Grupo G,Comum
+EGY5,Jogador EGY5,Egito,Grupo G,Comum
+EGY6,Jogador EGY6,Egito,Grupo G,Comum
+EGY7,Jogador EGY7,Egito,Grupo G,Comum
+EGY8,Jogador EGY8,Egito,Grupo G,Comum
+EGY9,Jogador EGY9,Egito,Grupo G,Comum
+EGY10,Jogador EGY10,Egito,Grupo G,Comum
+EGY11,Escudo,Egito,Grupo G,Especial
+EGY12,Jogador EGY12,Egito,Grupo G,Comum
+EGY13,Jogador EGY13,Egito,Grupo G,Comum
+EGY14,Jogador EGY14,Egito,Grupo G,Comum
+EGY15,Jogador EGY15,Egito,Grupo G,Comum
+EGY16,Jogador EGY16,Egito,Grupo G,Comum
+EGY17,Jogador EGY17,Egito,Grupo G,Comum
+EGY18,Jogador EGY18,Egito,Grupo G,Comum
+EGY19,Jogador EGY19,Egito,Grupo G,Comum
+EGY20,Jogador EGY20,Egito,Grupo G,Comum
+IRN5,Jogador IRN5,Ira,Grupo G,Comum
+NZL5,Jogador NZL5,Nova Zelandia,Grupo G,Comum
+IRN6,Jogador IRN6,Ira,Grupo G,Comum
+NZL6,Jogador NZL6,Nova Zelandia,Grupo G,Comum
+IRN7,Jogador IRN7,Ira,Grupo G,Comum
+NZL7,Jogador NZL7,Nova Zelandia,Grupo G,Comum
+IRN8,Jogador IRN8,Ira,Grupo G,Comum
+NZL8,Jogador NZL8,Nova Zelandia,Grupo G,Comum
+IRN9,Jogador IRN9,Ira,Grupo G,Comum
+NZL9,Jogador NZL9,Nova Zelandia,Grupo G,Comum
+IRN10,Jogador IRN10,Ira,Grupo G,Comum
+IRN11,Escudo,Ira,Grupo G,Especial
+IRN12,Jogador IRN12,Ira,Grupo G,Comum
+IRN13,Jogador IRN13,Ira,Grupo G,Comum
+IRN14,Jogador IRN14,Ira,Grupo G,Comum
+IRN15,Jogador IRN15,Ira,Grupo G,Comum
+IRN16,Jogador IRN16,Ira,Grupo G,Comum
+IRN17,Jogador IRN17,Ira,Grupo G,Comum
+IRN18,Jogador IRN18,Ira,Grupo G,Comum
+IRN19,Jogador IRN19,Ira,Grupo G,Comum
+IRN20,Jogador IRN20,Ira,Grupo G,Comum
+NZL10,Jogador NZL10,Nova Zelandia,Grupo G,Comum
+NZL11,Escudo,Nova Zelandia,Grupo G,Especial
+NZL12,Jogador NZL12,Nova Zelandia,Grupo G,Comum
+NZL13,Jogador NZL13,Nova Zelandia,Grupo G,Comum
+NZL14,Jogador NZL14,Nova Zelandia,Grupo G,Comum
+NZL15,Jogador NZL15,Nova Zelandia,Grupo G,Comum
+NZL16,Jogador NZL16,Nova Zelandia,Grupo G,Comum
+NZL17,Jogador NZL17,Nova Zelandia,Grupo G,Comum
+NZL18,Jogador NZL18,Nova Zelandia,Grupo G,Comum
+NZL19,Jogador NZL19,Nova Zelandia,Grupo G,Comum
+NZL20,Jogador NZL20,Nova Zelandia,Grupo G,Comum
+ESP5,Jogador ESP5,Espanha,Grupo H,Comum
+ESP6,Jogador ESP6,Espanha,Grupo H,Comum
+ESP7,Jogador ESP7,Espanha,Grupo H,Comum
+ESP8,Jogador ESP8,Espanha,Grupo H,Comum
+ESP9,Jogador ESP9,Espanha,Grupo H,Comum
+ESP10,Jogador ESP10,Espanha,Grupo H,Comum
+ESP11,Escudo,Espanha,Grupo H,Especial
+ESP12,Jogador ESP12,Espanha,Grupo H,Comum
+ESP13,Jogador ESP13,Espanha,Grupo H,Comum
+ESP14,Jogador ESP14,Espanha,Grupo H,Comum
+ESP15,Jogador ESP15,Espanha,Grupo H,Comum
+ESP16,Jogador ESP16,Espanha,Grupo H,Comum
+ESP17,Jogador ESP17,Espanha,Grupo H,Comum
+ESP18,Jogador ESP18,Espanha,Grupo H,Comum
+ESP19,Jogador ESP19,Espanha,Grupo H,Comum
+ESP20,Jogador ESP20,Espanha,Grupo H,Comum
+CPV5,Jogador CPV5,Cabo Verde,Grupo H,Comum
+CPV6,Jogador CPV6,Cabo Verde,Grupo H,Comum
+CPV7,Jogador CPV7,Cabo Verde,Grupo H,Comum
+CPV8,Jogador CPV8,Cabo Verde,Grupo H,Comum
+CPV9,Jogador CPV9,Cabo Verde,Grupo H,Comum
+CPV10,Jogador CPV10,Cabo Verde,Grupo H,Comum
+CPV11,Escudo,Cabo Verde,Grupo H,Especial
+CPV12,Jogador CPV12,Cabo Verde,Grupo H,Comum
+CPV13,Jogador CPV13,Cabo Verde,Grupo H,Comum
+CPV14,Jogador CPV14,Cabo Verde,Grupo H,Comum
+CPV15,Jogador CPV15,Cabo Verde,Grupo H,Comum
+CPV16,Jogador CPV16,Cabo Verde,Grupo H,Comum
+CPV17,Jogador CPV17,Cabo Verde,Grupo H,Comum
+CPV18,Jogador CPV18,Cabo Verde,Grupo H,Comum
+CPV19,Jogador CPV19,Cabo Verde,Grupo H,Comum
+CPV20,Jogador CPV20,Cabo Verde,Grupo H,Comum
+KSA5,Jogador KSA5,Arabia Saudita,Grupo H,Comum
+URU5,Jogador URU5,Uruguai,Grupo H,Comum
+KSA6,Jogador KSA6,Arabia Saudita,Grupo H,Comum
+URU6,Jogador URU6,Uruguai,Grupo H,Comum
+KSA7,Jogador KSA7,Arabia Saudita,Grupo H,Comum
+URU7,Jogador URU7,Uruguai,Grupo H,Comum
+KSA8,Jogador KSA8,Arabia Saudita,Grupo H,Comum
+URU8,Jogador URU8,Uruguai,Grupo H,Comum
+KSA9,Jogador KSA9,Arabia Saudita,Grupo H,Comum
+KSA10,Jogador KSA10,Arabia Saudita,Grupo H,Comum
+KSA11,Escudo,Arabia Saudita,Grupo H,Especial
+KSA12,Jogador KSA12,Arabia Saudita,Grupo H,Comum
+KSA13,Jogador KSA13,Arabia Saudita,Grupo H,Comum
+KSA14,Jogador KSA14,Arabia Saudita,Grupo H,Comum
+KSA15,Jogador KSA15,Arabia Saudita,Grupo H,Comum
+KSA16,Jogador KSA16,Arabia Saudita,Grupo H,Comum
+KSA17,Jogador KSA17,Arabia Saudita,Grupo H,Comum
+KSA18,Jogador KSA18,Arabia Saudita,Grupo H,Comum
+KSA19,Jogador KSA19,Arabia Saudita,Grupo H,Comum
+KSA20,Jogador KSA20,Arabia Saudita,Grupo H,Comum
+URU9,Jogador URU9,Uruguai,Grupo H,Comum
+URU10,Jogador URU10,Uruguai,Grupo H,Comum
+URU11,Escudo,Uruguai,Grupo H,Especial
+URU12,Jogador URU12,Uruguai,Grupo H,Comum
+URU13,Jogador URU13,Uruguai,Grupo H,Comum
+URU14,Jogador URU14,Uruguai,Grupo H,Comum
+URU15,Jogador URU15,Uruguai,Grupo H,Comum
+URU16,Jogador URU16,Uruguai,Grupo H,Comum
+URU17,Jogador URU17,Uruguai,Grupo H,Comum
+URU18,Jogador URU18,Uruguai,Grupo H,Comum
+URU19,Jogador URU19,Uruguai,Grupo H,Comum
+URU20,Jogador URU20,Uruguai,Grupo H,Comum
+FRA5,Jogador FRA5,Franca,Grupo I,Comum
+FRA6,Jogador FRA6,Franca,Grupo I,Comum
+FRA7,Jogador FRA7,Franca,Grupo I,Comum
+FRA8,Jogador FRA8,Franca,Grupo I,Comum
+FRA9,Jogador FRA9,Franca,Grupo I,Comum
+FRA10,Jogador FRA10,Franca,Grupo I,Comum
+FRA11,Escudo,Franca,Grupo I,Especial
+FRA12,Jogador FRA12,Franca,Grupo I,Comum
+FRA13,Jogador FRA13,Franca,Grupo I,Comum
+FRA14,Jogador FRA14,Franca,Grupo I,Comum
+FRA15,Jogador FRA15,Franca,Grupo I,Comum
+FRA16,Jogador FRA16,Franca,Grupo I,Comum
+FRA17,Jogador FRA17,Franca,Grupo I,Comum
+FRA18,Jogador FRA18,Franca,Grupo I,Comum
+FRA19,Jogador FRA19,Franca,Grupo I,Comum
+FRA20,Jogador FRA20,Franca,Grupo I,Comum
+SEN5,Jogador SEN5,Senegal,Grupo I,Comum
+SEN6,Jogador SEN6,Senegal,Grupo I,Comum
+SEN7,Jogador SEN7,Senegal,Grupo I,Comum
+SEN8,Jogador SEN8,Senegal,Grupo I,Comum
+SEN9,Jogador SEN9,Senegal,Grupo I,Comum
+SEN10,Jogador SEN10,Senegal,Grupo I,Comum
+SEN11,Escudo,Senegal,Grupo I,Especial
+SEN12,Jogador SEN12,Senegal,Grupo I,Comum
+SEN13,Jogador SEN13,Senegal,Grupo I,Comum
+SEN14,Jogador SEN14,Senegal,Grupo I,Comum
+SEN15,Jogador SEN15,Senegal,Grupo I,Comum
+SEN16,Jogador SEN16,Senegal,Grupo I,Comum
+SEN17,Jogador SEN17,Senegal,Grupo I,Comum
+SEN18,Jogador SEN18,Senegal,Grupo I,Comum
+SEN19,Jogador SEN19,Senegal,Grupo I,Comum
+SEN20,Jogador SEN20,Senegal,Grupo I,Comum
+IRQ5,Jogador IRQ5,Iraque,Grupo I,Comum
+NOR5,Jogador NOR5,Noruega,Grupo I,Comum
+IRQ6,Jogador IRQ6,Iraque,Grupo I,Comum
+NOR6,Jogador NOR6,Noruega,Grupo I,Comum
+IRQ7,Jogador IRQ7,Iraque,Grupo I,Comum
+NOR7,Jogador NOR7,Noruega,Grupo I,Comum
+IRQ8,Jogador IRQ8,Iraque,Grupo I,Comum
+NOR8,Jogador NOR8,Noruega,Grupo I,Comum
+IRQ9,Jogador IRQ9,Iraque,Grupo I,Comum
+IRQ10,Jogador IRQ10,Iraque,Grupo I,Comum
+IRQ11,Escudo,Iraque,Grupo I,Especial
+IRQ12,Jogador IRQ12,Iraque,Grupo I,Comum
+IRQ13,Jogador IRQ13,Iraque,Grupo I,Comum
+IRQ14,Jogador IRQ14,Iraque,Grupo I,Comum
+IRQ15,Jogador IRQ15,Iraque,Grupo I,Comum
+IRQ16,Jogador IRQ16,Iraque,Grupo I,Comum
+IRQ17,Jogador IRQ17,Iraque,Grupo I,Comum
+IRQ18,Jogador IRQ18,Iraque,Grupo I,Comum
+IRQ19,Jogador IRQ19,Iraque,Grupo I,Comum
+IRQ20,Jogador IRQ20,Iraque,Grupo I,Comum
+NOR9,Jogador NOR9,Noruega,Grupo I,Comum
+NOR10,Jogador NOR10,Noruega,Grupo I,Comum
+NOR11,Escudo,Noruega,Grupo I,Especial
+NOR12,Jogador NOR12,Noruega,Grupo I,Comum
+NOR13,Jogador NOR13,Noruega,Grupo I,Comum
+NOR14,Jogador NOR14,Noruega,Grupo I,Comum
+NOR15,Jogador NOR15,Noruega,Grupo I,Comum
+NOR16,Jogador NOR16,Noruega,Grupo I,Comum
+NOR17,Jogador NOR17,Noruega,Grupo I,Comum
+NOR18,Jogador NOR18,Noruega,Grupo I,Comum
+NOR19,Jogador NOR19,Noruega,Grupo I,Comum
+NOR20,Jogador NOR20,Noruega,Grupo I,Comum
+ARG5,Jogador ARG5,Argentina,Grupo J,Comum
+ARG6,Jogador ARG6,Argentina,Grupo J,Comum
+ARG7,Jogador ARG7,Argentina,Grupo J,Comum
+ARG8,Jogador ARG8,Argentina,Grupo J,Comum
+ARG9,Jogador ARG9,Argentina,Grupo J,Comum
+ARG10,Jogador ARG10,Argentina,Grupo J,Comum
+ARG11,Escudo,Argentina,Grupo J,Especial
+ARG12,Jogador ARG12,Argentina,Grupo J,Comum
+ARG13,Jogador ARG13,Argentina,Grupo J,Comum
+ARG14,Jogador ARG14,Argentina,Grupo J,Comum
+ARG15,Jogador ARG15,Argentina,Grupo J,Comum
+ARG16,Jogador ARG16,Argentina,Grupo J,Comum
+ARG17,Jogador ARG17,Argentina,Grupo J,Comum
+ARG18,Jogador ARG18,Argentina,Grupo J,Comum
+ARG19,Jogador ARG19,Argentina,Grupo J,Comum
+ARG20,Jogador ARG20,Argentina,Grupo J,Comum
+ALG5,Jogador ALG5,Argelia,Grupo J,Comum
+ALG6,Jogador ALG6,Argelia,Grupo J,Comum
+ALG7,Jogador ALG7,Argelia,Grupo J,Comum
+ALG8,Jogador ALG8,Argelia,Grupo J,Comum
+ALG9,Jogador ALG9,Argelia,Grupo J,Comum
+ALG10,Jogador ALG10,Argelia,Grupo J,Comum
+ALG11,Escudo,Argelia,Grupo J,Especial
+ALG12,Jogador ALG12,Argelia,Grupo J,Comum
+ALG13,Jogador ALG13,Argelia,Grupo J,Comum
+ALG14,Jogador ALG14,Argelia,Grupo J,Comum
+ALG15,Jogador ALG15,Argelia,Grupo J,Comum
+ALG16,Jogador ALG16,Argelia,Grupo J,Comum
+ALG17,Jogador ALG17,Argelia,Grupo J,Comum
+ALG18,Jogador ALG18,Argelia,Grupo J,Comum
+ALG19,Jogador ALG19,Argelia,Grupo J,Comum
+ALG20,Jogador ALG20,Argelia,Grupo J,Comum
+AUT5,Jogador AUT5,Austria,Grupo J,Comum
+JOR5,Jogador JOR5,Jordania,Grupo J,Comum
+AUT6,Jogador AUT6,Austria,Grupo J,Comum
+JOR6,Jogador JOR6,Jordania,Grupo J,Comum
+AUT7,Jogador AUT7,Austria,Grupo J,Comum
+JOR7,Jogador JOR7,Jordania,Grupo J,Comum
+AUT8,Jogador AUT8,Austria,Grupo J,Comum
+JOR8,Jogador JOR8,Jordania,Grupo J,Comum
+AUT9,Jogador AUT9,Austria,Grupo J,Comum
+JOR9,Jogador JOR9,Jordania,Grupo J,Comum
+AUT10,Jogador AUT10,Austria,Grupo J,Comum
+AUT11,Escudo,Austria,Grupo J,Especial
+AUT12,Jogador AUT12,Austria,Grupo J,Comum
+AUT13,Jogador AUT13,Austria,Grupo J,Comum
+AUT14,Jogador AUT14,Austria,Grupo J,Comum
+AUT15,Jogador AUT15,Austria,Grupo J,Comum
+AUT16,Jogador AUT16,Austria,Grupo J,Comum
+AUT17,Jogador AUT17,Austria,Grupo J,Comum
+AUT18,Jogador AUT18,Austria,Grupo J,Comum
+AUT19,Jogador AUT19,Austria,Grupo J,Comum
+AUT20,Jogador AUT20,Austria,Grupo J,Comum
+JOR10,Jogador JOR10,Jordania,Grupo J,Comum
+JOR11,Escudo,Jordania,Grupo J,Especial
+JOR12,Jogador JOR12,Jordania,Grupo J,Comum
+JOR13,Jogador JOR13,Jordania,Grupo J,Comum
+JOR14,Jogador JOR14,Jordania,Grupo J,Comum
+JOR15,Jogador JOR15,Jordania,Grupo J,Comum
+JOR16,Jogador JOR16,Jordania,Grupo J,Comum
+JOR17,Jogador JOR17,Jordania,Grupo J,Comum
+JOR18,Jogador JOR18,Jordania,Grupo J,Comum
+JOR19,Jogador JOR19,Jordania,Grupo J,Comum
+JOR20,Jogador JOR20,Jordania,Grupo J,Comum
+POR5,Jogador POR5,Portugal,Grupo K,Comum
+POR6,Jogador POR6,Portugal,Grupo K,Comum
+POR7,Jogador POR7,Portugal,Grupo K,Comum
+POR8,Jogador POR8,Portugal,Grupo K,Comum
+POR9,Jogador POR9,Portugal,Grupo K,Comum
+POR10,Jogador POR10,Portugal,Grupo K,Comum
+POR11,Escudo,Portugal,Grupo K,Especial
+POR12,Jogador POR12,Portugal,Grupo K,Comum
+POR13,Jogador POR13,Portugal,Grupo K,Comum
+POR14,Jogador POR14,Portugal,Grupo K,Comum
+POR15,Jogador POR15,Portugal,Grupo K,Comum
+POR16,Jogador POR16,Portugal,Grupo K,Comum
+POR17,Jogador POR17,Portugal,Grupo K,Comum
+POR18,Jogador POR18,Portugal,Grupo K,Comum
+POR19,Jogador POR19,Portugal,Grupo K,Comum
+POR20,Jogador POR20,Portugal,Grupo K,Comum
+COD5,Jogador COD5,Congo,Grupo K,Comum
+COD6,Jogador COD6,Congo,Grupo K,Comum
+COD7,Jogador COD7,Congo,Grupo K,Comum
+COD8,Jogador COD8,Congo,Grupo K,Comum
+COD9,Jogador COD9,Congo,Grupo K,Comum
+COD10,Jogador COD10,Congo,Grupo K,Comum
+COD11,Escudo,Congo,Grupo K,Especial
+COD12,Jogador COD12,Congo,Grupo K,Comum
+COD13,Jogador COD13,Congo,Grupo K,Comum
+COD14,Jogador COD14,Congo,Grupo K,Comum
+COD15,Jogador COD15,Congo,Grupo K,Comum
+COD16,Jogador COD16,Congo,Grupo K,Comum
+COD17,Jogador COD17,Congo,Grupo K,Comum
+COD18,Jogador COD18,Congo,Grupo K,Comum
+COD19,Jogador COD19,Congo,Grupo K,Comum
+COD20,Jogador COD20,Congo,Grupo K,Comum
+UZB5,Jogador UZB5,Uzbequistao,Grupo K,Comum
+COL5,Jogador COL5,Colombia,Grupo K,Comum
+UZB6,Jogador UZB6,Uzbequistao,Grupo K,Comum
+COL6,Jogador COL6,Colombia,Grupo K,Comum
+UZB7,Jogador UZB7,Uzbequistao,Grupo K,Comum
+COL7,Jogador COL7,Colombia,Grupo K,Comum
+UZB8,Jogador UZB8,Uzbequistao,Grupo K,Comum
+COL8,Jogador COL8,Colombia,Grupo K,Comum
+UZB9,Jogador UZB9,Uzbequistao,Grupo K,Comum
+UZB10,Jogador UZB10,Uzbequistao,Grupo K,Comum
+UZB11,Escudo,Uzbequistao,Grupo K,Especial
+UZB12,Jogador UZB12,Uzbequistao,Grupo K,Comum
+UZB13,Jogador UZB13,Uzbequistao,Grupo K,Comum
+UZB14,Jogador UZB14,Uzbequistao,Grupo K,Comum
+UZB15,Jogador UZB15,Uzbequistao,Grupo K,Comum
+UZB16,Jogador UZB16,Uzbequistao,Grupo K,Comum
+UZB17,Jogador UZB17,Uzbequistao,Grupo K,Comum
+UZB18,Jogador UZB18,Uzbequistao,Grupo K,Comum
+UZB19,Jogador UZB19,Uzbequistao,Grupo K,Comum
+UZB20,Jogador UZB20,Uzbequistao,Grupo K,Comum
+COL9,Jogador COL9,Colombia,Grupo K,Comum
+COL10,Jogador COL10,Colombia,Grupo K,Comum
+COL11,Escudo,Colombia,Grupo K,Especial
+COL12,Jogador COL12,Colombia,Grupo K,Comum
+COL13,Jogador COL13,Colombia,Grupo K,Comum
+COL14,Jogador COL14,Colombia,Grupo K,Comum
+COL15,Jogador COL15,Colombia,Grupo K,Comum
+COL16,Jogador COL16,Colombia,Grupo K,Comum
+COL17,Jogador COL17,Colombia,Grupo K,Comum
+COL18,Jogador COL18,Colombia,Grupo K,Comum
+COL19,Jogador COL19,Colombia,Grupo K,Comum
+COL20,Jogador COL20,Colombia,Grupo K,Comum
+ENG5,Jogador ENG5,Inglaterra,Grupo L,Comum
+ENG6,Jogador ENG6,Inglaterra,Grupo L,Comum
+ENG7,Jogador ENG7,Inglaterra,Grupo L,Comum
+ENG8,Jogador ENG8,Inglaterra,Grupo L,Comum
+ENG9,Jogador ENG9,Inglaterra,Grupo L,Comum
+ENG10,Jogador ENG10,Inglaterra,Grupo L,Comum
+ENG11,Escudo,Inglaterra,Grupo L,Especial
+ENG12,Jogador ENG12,Inglaterra,Grupo L,Comum
+ENG13,Jogador ENG13,Inglaterra,Grupo L,Comum
+ENG14,Jogador ENG14,Inglaterra,Grupo L,Comum
+ENG15,Jogador ENG15,Inglaterra,Grupo L,Comum
+ENG16,Jogador ENG16,Inglaterra,Grupo L,Comum
+ENG17,Jogador ENG17,Inglaterra,Grupo L,Comum
+ENG18,Jogador ENG18,Inglaterra,Grupo L,Comum
+ENG19,Jogador ENG19,Inglaterra,Grupo L,Comum
+ENG20,Jogador ENG20,Inglaterra,Grupo L,Comum
+CRO5,Jogador CRO5,Croacia,Grupo L,Comum
+CRO6,Jogador CRO6,Croacia,Grupo L,Comum
+CRO7,Jogador CRO7,Croacia,Grupo L,Comum
+CRO8,Jogador CRO8,Croacia,Grupo L,Comum
+CRO9,Jogador CRO9,Croacia,Grupo L,Comum
+CRO10,Jogador CRO10,Croacia,Grupo L,Comum
+CRO11,Escudo,Croacia,Grupo L,Especial
+CRO12,Jogador CRO12,Croacia,Grupo L,Comum
+CRO13,Jogador CRO13,Croacia,Grupo L,Comum
+CRO14,Jogador CRO14,Croacia,Grupo L,Comum
+CRO15,Jogador CRO15,Croacia,Grupo L,Comum
+CRO16,Jogador CRO16,Croacia,Grupo L,Comum
+CRO17,Jogador CRO17,Croacia,Grupo L,Comum
+CRO18,Jogador CRO18,Croacia,Grupo L,Comum
+CRO19,Jogador CRO19,Croacia,Grupo L,Comum
+CRO20,Jogador CRO20,Croacia,Grupo L,Comum
+GHA5,Jogador GHA5,Gana,Grupo L,Comum
+PAN5,Jogador PAN5,Panama,Grupo L,Comum
+GHA6,Jogador GHA6,Gana,Grupo L,Comum
+PAN6,Jogador PAN6,Panama,Grupo L,Comum
+GHA7,Jogador GHA7,Gana,Grupo L,Comum
+PAN7,Jogador PAN7,Panama,Grupo L,Comum
+GHA8,Jogador GHA8,Gana,Grupo L,Comum
+PAN8,Jogador PAN8,Panama,Grupo L,Comum
+GHA9,Jogador GHA9,Gana,Grupo L,Comum
+GHA10,Jogador GHA10,Gana,Grupo L,Comum
+GHA11,Escudo,Gana,Grupo L,Especial
+GHA12,Jogador GHA12,Gana,Grupo L,Comum
+GHA13,Jogador GHA13,Gana,Grupo L,Comum
+GHA14,Jogador GHA14,Gana,Grupo L,Comum
+GHA15,Jogador GHA15,Gana,Grupo L,Comum
+GHA16,Jogador GHA16,Gana,Grupo L,Comum
+GHA17,Jogador GHA17,Gana,Grupo L,Comum
+GHA18,Jogador GHA18,Gana,Grupo L,Comum
+GHA19,Jogador GHA19,Gana,Grupo L,Comum
+GHA20,Jogador GHA20,Gana,Grupo L,Comum
+PAN9,Jogador PAN9,Panama,Grupo L,Comum
+PAN10,Jogador PAN10,Panama,Grupo L,Comum
+PAN11,Escudo,Panama,Grupo L,Especial
+PAN12,Jogador PAN12,Panama,Grupo L,Comum
+PAN13,Jogador PAN13,Panama,Grupo L,Comum
+PAN14,Jogador PAN14,Panama,Grupo L,Comum
+PAN15,Jogador PAN15,Panama,Grupo L,Comum
+PAN16,Jogador PAN16,Panama,Grupo L,Comum
+PAN17,Jogador PAN17,Panama,Grupo L,Comum
+PAN18,Jogador PAN18,Panama,Grupo L,Comum
+PAN19,Jogador PAN19,Panama,Grupo L,Comum
+PAN20,Jogador PAN20,Panama,Grupo L,Comum
